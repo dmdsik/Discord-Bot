@@ -69,5 +69,3 @@ async def on_message(message):
  
                 # 메시지 보내기
                 await message.channel.send(embed=embed)
- 
-client.run('ODkwOTQwNjU0MDU2NzkyMDc0.YU3HJA.9UeBqmWFMq02HA9dfL9a05cAEsc')
